@@ -6,6 +6,8 @@ This workshop was taught using Google Colab. The full Google Colab jupyter noteb
 
 This workshop is designed for people with basic familiarity with Python, pandas, and data visualization. It assumes no knowledge about Plotly Express or Streamlit.  
 
+The Google Colab notebook content is also available as a jupyter notebook in the scripts folder titled [Intro_Python_Datavis_Plotly.ipynb](https://github.com/christiebarron/intro-data-vis/blob/main/scripts/Intro_Python_Datavis_Plotly.ipynb)
+
 ## Files
 Datasets are available in the `data` folder. For ease of use, Streamlit web applications call cleaned data on github rather than cleaning the data in the app. 
 
